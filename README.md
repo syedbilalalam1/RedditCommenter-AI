@@ -85,12 +85,6 @@ python app.py
 └── requirements.txt   # Dependencies
 ```
 
-## 🔒 Security
-
-- Never commit `.env` file
-- Keep API keys private
-- Use environment variables
-- Follow Reddit's TOS
 
 ## 🤝 Best Practices
 
