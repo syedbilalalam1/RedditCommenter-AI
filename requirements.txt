@@ -1,0 +1,6 @@
+praw
+python-dotenv
+openai>=1.0.0
+colorama
+flask
+gunicorn 
