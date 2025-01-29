@@ -2,6 +2,8 @@
 
 An intelligent Reddit bot that automatically engages with posts and comments across various subreddits, powered by AI to provide helpful responses while promoting your educational platform.
 
+![Image](https://github.com/user-attachments/assets/7bbef55e-4cd7-48c1-bead-2056e6d1f726)
+
 ## 🌟 Features
 
 - 🎯 Smart subreddit targeting
